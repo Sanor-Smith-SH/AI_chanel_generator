@@ -12,7 +12,7 @@ HEADERS = {
 }
 
 # File and voice configuration
-DOCX_FILE_NAME = "Cooking_Script_2024-12-30.docx"
+DOCX_FILE_NAME = "Cooking_Script_2025-01-03.docx"
 OUTPUT_FILE_NAME = "output_voice.mp3"
 CHUNK_SIZE = 1024 * 1024  # 1 MB
 

@@ -13,7 +13,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 def generate_script():
     prompt = (
         "Create a creative, attractive, and professional script for a 60-second YouTube short video. "
-        "The video is targeted at people who love cooking, baking, and exploring food recipes. "
+        "The video is targeted at people who love cooking italian pizza, baking, and exploring food recipes. "
         "The tone should be engaging and include a call-to-action for viewers to like, share, and subscribe."
         "Include only text without any coding signs or video length or astric signs only the speaking text or pargraph explenation, highlights vedio action explenation"
     )
